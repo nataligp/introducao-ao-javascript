@@ -1,0 +1,10 @@
+#myImage{
+	position: absolute;
+	top: 100px;
+	left: 50%;
+	width: 100px;
+}
+#demo{
+	width: 750px;
+	text-align: justify;
+}
